@@ -17,6 +17,6 @@ https://github.com/AdrienPoupa/chat   C# chat using TCP sockets
 
 https://github.com/Kolahzary/SocketChat   C# & WPF Client-Server chat application
 
+https://github.com/EraserH/ChatServer   ChatServer
 
-
-
+https://github.com/Van-anh0/Chat_Client_Server    Chat_Client_Server
