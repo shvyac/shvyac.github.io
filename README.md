@@ -13,6 +13,10 @@ https://docs.microsoft.com/ja-jp/dotnet/framework/network-programming/socket-cod
 
 https://github.com/Joben28/WPFChat    A WPF chat application
 
+https://github.com/AdrienPoupa/chat   C# chat using TCP sockets
+
+https://github.com/Kolahzary/SocketChat   C# & WPF Client-Server chat application
+
 
 
 
