@@ -1,1 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: minima
+title: shvyac — Awesome Trading & Finance
+description: Curated trading, quant and finance resources
+markdown: kramdown
