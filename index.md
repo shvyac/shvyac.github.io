@@ -1,7 +1,7 @@
 
 ---
-title: Awesome Trading & Finance
-description: Curated trading, quant and finance resources
+title: shvTech 
+description: xxxxxx
 ---
 # Awesome Money Simulation — Finance & Trading
 
