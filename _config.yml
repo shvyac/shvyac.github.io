@@ -1,4 +1,10 @@
+# shvyac.github.io — Jekyll site settings (GitHub Pages)
+
 theme: minima
-title: shvyac — Awesome Trading & Finance
-description: Curated trading, quant and finance resources
+title: shvyac — Awesome Lists
+description: Curated awesome lists on CAE, AI, security, finance and more, by shvyac.
+lang: en
 markdown: kramdown
+
+# GitHub link shown in the minima footer
+github_username: shvyac
